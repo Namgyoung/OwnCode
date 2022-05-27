@@ -1,2 +1,2 @@
 # OwnCode
-# Codes I made myself for the self-training or for work
+# Codes for the self-training or for work
